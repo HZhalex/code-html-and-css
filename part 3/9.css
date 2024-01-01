@@ -1,0 +1,20 @@
+.b{
+    display: flex;
+    width: 700px;
+    height: 186px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid rgb(217, 6, 6);
+    padding-bottom: 30px;
+}
+.c{
+    width: 200px;
+    display: block;
+    
+    margin-right: 100px;
+    padding-bottom: 100px;
+}
+.d{
+    margin-top: -20px;
+    width: 400px;
+
+}
